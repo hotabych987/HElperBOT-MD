@@ -38,4 +38,4 @@
 
 
 <b>THANKS TO
-@DGXeon
+* [`DGXeon`](https://github.com/DGXeon)
