@@ -3,11 +3,13 @@
 
 
 
-SCAN QR CODE FROM HERE👇
+<b>SCAN QR CODE FROM HERE👇
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@thamidudeshan/MARSHMELLO-MD-QR-CODE?v=1#)
 
-
+<b>DEPLOY ON HEROKU
+  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thami2007/MARSHMELLO-MD/)
 
 
 
