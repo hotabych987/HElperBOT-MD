@@ -1,11 +1,11 @@
 {
-  "name": "Marshmello -MD",
+  "name": "Cyber-X MD",
   "version": "1.0.0",
-  "description": "Automated whatsapp md bot created using nodejs",
-  "main": "xeon.js",
+  "description": "Autometic WhatsApp Bot",
+  "main": "bot.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node xeon.js"
+    "start": "node bot.js"
   },
   "keywords": [
     "termux",
@@ -17,10 +17,10 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Reda yt",
+  "author": "darkalphaxteam",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "^4.1.0",
+    "@adiwajshing/baileys": "github:darkalphaxteam/baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
     "@shineiichijo/marika": "^2.0.2",
@@ -75,10 +75,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DGXeon/CheemsBot-MD4.git"
+    "url": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release.git"
   },
   "bugs": {
-    "url": "https://github.com/DGXeon/CheemsBot-MD4/issues"
+    "url": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release/issues"
   },
-  "homepage": "https://github.com/DGXeon/CheemsBot-MD4#readme"
+  "homepage": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release#readme"
 }
