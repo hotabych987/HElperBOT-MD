@@ -1,1 +1,23 @@
-jjj
+"name": "Marshmello WA BOT",
+  "description": "whatsapp md bot build with nodejs",
+  "repository": "https://github.com/Thami2007/MARSHMELLO-MD",
+  "logo": "https://i.postimg.cc/43h94BgX/20221027-192849.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
