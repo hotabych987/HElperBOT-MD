@@ -1,5 +1,5 @@
 {
-  "name": "Cyber-X MD",
+  "name": "Marshmello-MD",
   "version": "1.0.0",
   "description": "Autometic WhatsApp Bot",
   "main": "bot.js",
@@ -17,7 +17,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "darkalphaxteam",
+  "author": "Reda yt",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:darkalphaxteam/baileys",
