@@ -12,7 +12,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thami2007/MARSHMELLO-MD/)
   
   
- 1. Click [SCAN](https://https://replit.com/@thamidudeshan/MARSHMELLO-MD-QR-CODE?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+ 1. Click [SCAN](https://replit.com/@thamidudeshan/MARSHMELLO-MD-QR-CODE?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
 2. Click [FORK](https://github.com/Thami2007/MARSHMELLO-MD/fork)
 
